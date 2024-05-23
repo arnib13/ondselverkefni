@@ -1,0 +1,3 @@
+# Ondsel verkefni
+
+## Git action
